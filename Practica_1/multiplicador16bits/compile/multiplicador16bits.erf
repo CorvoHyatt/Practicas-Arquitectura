@@ -1,0 +1,5 @@
+MESSAGE "File: .\`multiplicadorpf.vhd" 
+MESSAGE "Compile Entity "\`multiplicadorPF\"" 
+MESSAGE "Entity `\`multiplicadorPF\' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "\`multiplicadorPF\" of Entity "\`multiplicadorPF\"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

@@ -1,0 +1,23 @@
+elbread.dll ver. 1.0.5.325 Tue Nov 01 13:16:36 2022
+
+
+--------------------------------------------------------------
+Entity              | Architecture       | Library          
+--------------------------------------------------------------
+\`multiplicadorPF\  | \`multiplicadorPF\ | multiplicador16bits
+separa16bits        | separa16bits       | multiplicador16bits
+sumaexp             | sumaexp            | multiplicador16bits
+alumultiplicador    | alumultiplicador   | multiplicador16bits
+mux2a1mul           | mux2a1mul          | multiplicador16bits
+une16bits           | une16bits          | multiplicador16bits
+--------------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+numeric_std         | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

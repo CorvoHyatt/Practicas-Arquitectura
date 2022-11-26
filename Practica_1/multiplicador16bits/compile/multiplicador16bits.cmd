@@ -1,0 +1,1 @@
+-w -s "Z:\multiplicador16bitsPF\library.cfg"  -j "Z:\multiplicador16bitsPF\multiplicador16bits\projlib.cfg"  -d "Z:\multiplicador16bitsPF\multiplicador16bits\compile\"  -work multiplicador16bits -dbg -e 100 "Z:\multiplicador16bitsPF\multiplicador16bits\compile\`multiplicadorpf.vhd" 

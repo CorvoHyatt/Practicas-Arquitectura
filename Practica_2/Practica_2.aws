@@ -1,0 +1,12 @@
+[Version]
+Version=6.2
+[Designs]
+practica2=.\practica2\practica2.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+practica2=1

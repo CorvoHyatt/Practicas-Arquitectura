@@ -1,0 +1,9 @@
+.\src\difExp.vhd
+.\src\aluSumaMantisa.vhd
+.\src\Mux10bits.vhd
+.\src\Mux5bits.vhd
+.\src\aluSumaExp.vhd
+.\src\corrimiento.vhd
+.\src\practica2.bde
+.\src\mux10bitsB.vhd
+.\src\mux5bitsB.vhd

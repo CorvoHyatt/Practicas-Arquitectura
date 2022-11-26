@@ -1,0 +1,12 @@
+[Version]
+Version=6.2
+[Designs]
+multiplicador16bits=.\multiplicador16bits\multiplicador16bits.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+multiplicador16bits=1

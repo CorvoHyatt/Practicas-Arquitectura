@@ -1,0 +1,65 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=multiplicador16bits
+
+[Library]
+multiplicador16bits=.\multiplicador16bits.lib
+
+[$LibMap$]
+multiplicador16bits=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=\`multiplicadorPF\|\`multiplicadorPF\|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/.bde=-1
+/mux2a1mul.vhd=-1
+/alumultiplicador.vhd=-1
+/`multiplicadorpf.bde=-1
+/divisorde16bits.vhd=-1
+/\compile\une16bits.vhd=-1
+/sumaExpo.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\.bde=Block Diagram
+.\src\mux2a1mul.vhd=VHDL Source Code
+.\src\alumultiplicador.vhd=VHDL Source Code
+.\src\`multiplicadorpf.bde=Block Diagram
+.\src\divisorde16bits.vhd=VHDL Source Code
+.\compile\une16bits.vhd=VHDL Source Code
+.\src\sumaExpo.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+.\compile\.vhd=VHDL Source Code
+.\compile\`multiplicadorpf.vhd=VHDL Source Code
+.\compile\une32bits.vhd=VHDL Source Code
+
+
+[file_out:/.bde]
+/\compile\une32bits.vhd=-1
+/\compile\.vhd=-1
+[file_out:/`multiplicadorpf.bde]
+/\compile\`multiplicadorpf.vhd=-1

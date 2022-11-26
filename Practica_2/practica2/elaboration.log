@@ -1,0 +1,26 @@
+elbread.dll ver. 1.0.5.325 Sun Nov 06 22:20:40 2022
+
+
+--------------------------------------------------------------
+Entity                   | Architecture            | Library
+--------------------------------------------------------------
+practica2                | practica2               | practica2
+alusumaexp               | alusumaexp              | practica2
+difexp                   | difexp                  | practica2
+mux5bits                 | mux5bits                | practica2
+mux5bitsb                | mux5bitsb               | practica2
+mux10bitsb               | mux10bitsb              | practica2
+alusumamantisa           | alusumamantisa          | practica2
+componentenormalizacion  | componentenormalizacion | practica2
+mux10bits                | mux10bits               | practica2
+--------------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+numeric_std         | ieee
+-----------------------------

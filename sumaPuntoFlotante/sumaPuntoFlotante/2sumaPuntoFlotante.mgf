@@ -1,0 +1,156 @@
+V 000042 40 2150 1666704692757 entrada32b
+<?xml version="1.0"?>
+<symbol name="Entrada32b">
+<shape guid="947a1cf9-8235-4cd4-9a02-5d15a066c41b" default="1">
+<![CDATA[SYMB0100
+
+HEADER
+{
+ FREEID 12
+ VARIABLES
+ {
+  #CUSTOM_NAME=""
+  #DESCRIPTION=""
+  #HDL_ENTRIES=
+"library IEEE;\n"+
+"use IEEE.std_logic_1164.all;"
+  #LANGUAGE="VHDL"
+  #MODIFIED="1666704692"
+  #MODIFIED_USEC="726150"
+  #NAME="Entrada32b"
+  #SYMBOL_GLOBALLY_UNIQUE_IDENTIFIER="947a1cf9-8235-4cd4-9a02-5d15a066c41b"
+ }
+}
+
+PAGE ""
+{
+ PAGEHEADER
+ {
+  MARGINS (200,200,200,200)
+  RECT (0,0,760,200)
+ }
+ 
+ BODY
+ {
+  RECT  1, -1, 0
+  {
+   VARIABLES
+   {
+    #OUTLINE_FILLING="1"
+   }
+   AREA (0,20,760,180)
+  }
+  PIN  2, 0, 0
+  {
+   COORD (120,200)
+   VARIABLES
+   {
+    #DIRECTION="OUT"
+    #LENGTH="20"
+    #MODIFIED="1"
+    #NAME="Signo"
+    #SIDE="bottom"
+    #VHDL_TYPE="STD_LOGIC"
+   }
+   LINE  2, 0, 0
+   {
+    POINTS ( (0,0), (0,-20) )
+   }
+  }
+  TEXT  3, 0, 0
+  {
+   TEXT "$#NAME"
+   RECT (108,114,132,165)
+   ALIGN 1
+   MARGINS (1,1)
+   PARENT 2
+   ORIENTATION 7
+  }
+  PIN  4, 0, 0
+  {
+   COORD (260,0)
+   VARIABLES
+   {
+    #DIRECTION="IN"
+    #LENGTH="20"
+    #MODIFIED="1"
+    #NAME="A(31:0)"
+    #SIDE="top"
+    #VHDL_TYPE="STD_LOGIC_VECTOR"
+   }
+   LINE  2, 0, 0
+   {
+    POINTS ( (0,0), (0,20) )
+   }
+  }
+  TEXT  5, 0, 0
+  {
+   TEXT "$#NAME"
+   RECT (248,35,272,100)
+   ALIGN 1
+   MARGINS (1,1)
+   PARENT 4
+   ORIENTATION 5
+  }
+  PIN  6, 0, 0
+  {
+   COORD (360,200)
+   VARIABLES
+   {
+    #DIRECTION="OUT"
+    #LENGTH="20"
+    #MODIFIED="1"
+    #NAME="Exp127(7:0)"
+    #SIDE="bottom"
+    #VHDL_TYPE="STD_LOGIC_VECTOR"
+   }
+   LINE  2, 0, 0
+   {
+    POINTS ( (0,0), (0,-20) )
+   }
+  }
+  TEXT  7, 0, 0
+  {
+   TEXT "$#NAME"
+   RECT (348,60,372,167)
+   ALIGN 1
+   MARGINS (1,1)
+   PARENT 6
+   ORIENTATION 7
+  }
+  PIN  8, 0, 0
+  {
+   COORD (600,200)
+   VARIABLES
+   {
+    #DIRECTION="OUT"
+    #LENGTH="20"
+    #MODIFIED="1"
+    #NAME="Mantiza(22:0)"
+    #SIDE="bottom"
+    #VHDL_TYPE="STD_LOGIC_VECTOR"
+   }
+   LINE  2, 0, 0
+   {
+    POINTS ( (0,0), (0,-20) )
+   }
+  }
+  TEXT  9, 0, 0
+  {
+   TEXT "$#NAME"
+   RECT (588,50,612,165)
+   ALIGN 1
+   MARGINS (1,1)
+   PARENT 8
+   ORIENTATION 7
+  }
+ }
+ 
+}
+
+
+]]>
+</shape>
+</symbol>
+
+

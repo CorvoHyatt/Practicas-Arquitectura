@@ -1,0 +1,8 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/Users/Rv_Ru/OneDrive/Documentos/UTM/7mo Semestre/Arquitectura/Practicas/sumaPuntoFlotante/src/Entrada32b.vhd" 
+MESSAGE "Compile Entity "Entrada32b"" 
+MESSAGE "Compile Architecture "Entrada32b" of Entity "Entrada32b"" 
+MESSAGE "File: ./../compile/SumaPuntoFlotante.vhd" 
+MESSAGE "Compile Entity "SumaPuntoFlotante"" 
+MESSAGE "Compile Architecture "SumaPuntoFlotante" of Entity "SumaPuntoFlotante"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]" 

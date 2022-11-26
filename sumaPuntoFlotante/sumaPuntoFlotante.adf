@@ -1,0 +1,32 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=sumaPuntoFlotante
+[Library]
+sumaPuntoFlotante=.\sumaPuntoFlotante\sumaPuntoFlotante.lib
+[$LibMap$]
+sumaPuntoFlotante=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Entrada32b.vhd=-1
+/SumaPuntoFlotante.bde=-1
+/..\..\..\..\..\7moSemestre\Arquitectura\Practicas\sumaPuntoFlotante\src\Waveform.asdb=-1
+/..\..\..\..\..\7moSemestre\Arquitectura\Practicas\sumaPuntoFlotante\src\Waveform.awc=-1
+/Sumador8b.vhd=-1
+[Files.Data]
+.\src\Entrada32b.vhd=VHDL Source Code
+.\src\SumaPuntoFlotante.bde=Block Diagram
+.\..\..\..\..\7moSemestre\Arquitectura\Practicas\sumaPuntoFlotante\src\Waveform.asdb=Accelerated Waveform File
+.\..\..\..\..\7moSemestre\Arquitectura\Practicas\sumaPuntoFlotante\src\Waveform.awc=Accelerated Waveform Configuration
+.\src\Sumador8b.vhd=VHDL Source Code
+[file_out:/SumaPuntoFlotante.bde]
+/..\compile\SumaPuntoFlotante.vhd=-1

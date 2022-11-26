@@ -1,0 +1,153 @@
+[alusuma]
+A/alusuma=A/aluSuma 21|./src/aluSuma.vhd|42|1*6580
+H/alusuma=0*7984
+R=./src/aluSuma.vhd|30
+V=0*5588
+
+[alusumaexp]
+A/alusumaexp=A/aluSumaExp 21|./src/aluSumaExp.vhd|43|1*3350589
+B/alusumaexp=3*1452246
+H/alusumaexp=0*3402618
+R=./src/aluSumaExp.vhd|33
+S/alusumaexp=S/aluSumaExp 40|0|2*77163
+V=0*967960
+
+[alusumamantisa]
+A/alusumamantisa=21|./src/aluSumaMantisa.vhd|41|1*3344099
+B/alusumamantisa=3*1448861
+H/alusumamantisa=0*3400379
+R=./src/aluSumaMantisa.vhd|31
+S/alusumamantisa=S/aluSumaMantisa 40|0|2*60553
+V=0*403856
+
+[componentenormalizacion]
+A/componentenormalizacion=A/ComponenteNormalizacion 21|./src/corrimiento.vhd|40|1*3352385
+B/componentenormalizacion=3*1453316
+H/componentenormalizacion=0*3403581
+R=./src/corrimiento.vhd|30
+S/componentenormalizacion=S/ComponenteNormalizacion 40|0|2*68241
+V=0*2057320
+
+[difexp]
+A/difexp=A/difExp 21|./src/difExp.vhd|43|1*3341405
+B/difexp=3*1447727
+H/difexp=0*3399817
+R=./src/difExp.vhd|31
+S/difexp=S/difExp 40|0|2*12147
+V=0*126446
+
+[fub1]
+A/fub1=A/Fub1 21|.\src\Mux5bits.vhd|10000|
+
+[fub2]
+A/mul=21|.\src\Mux5bits.vhd|10000|
+
+[mux10bits]
+A/mux10bits=A/Mux10bits 21|./src/Mux10bits.vhd|41|1*3347420
+B/mux10bits=3*1450863
+H/mux10bits=0*3401863
+R=./src/Mux10bits.vhd|30
+S/mux10bits=S/Mux10bits 40|0|2*74838
+V=0*55326
+
+[mux10bitsb]
+A/mux10bitsb=A/mux10bitsB 21|./src/mux10bitsB.vhd|41|1*3368540
+B/mux10bitsb=3*1460515
+H/mux10bitsb=0*3429410
+R=./src/mux10bitsB.vhd|30
+S/mux10bitsb=S/mux10bitsB 40|0|2*79599
+V=0*1284922
+
+[mux5bits]
+A/mux5bits=21|./src/Mux5bits.vhd|41|1*3349007
+B/mux5bits=3*1451555
+H/mux5bits=0*3402246
+R=./src/Mux5bits.vhd|30
+S/mux5bits=S/Mux5bits 40|0|2*37530
+V=0*49622
+
+[mux5bitsb]
+A/mux5bitsb=A/mux5bitsB 21|./src/mux5bitsB.vhd|41|1*3370132
+B/mux5bitsb=3*1461208
+H/mux5bitsb=0*3429804
+R=./src/mux5bitsB.vhd|30
+S/mux5bitsb=S/mux5bitsB 40|0|2*82447
+V=0*1396458
+
+[practica2]
+A/practica2=24|.\src\practica2.bde|10000|1*3355112
+B/practica2=3*1460159
+H/practica2=0*3406234
+R=./compile/practica2.vhd|25
+V=0*1040628
+
+[sumae]
+A/sumae=21|./src/aluSumaExp.vhd|43|1*946914
+B/sumae=3*333612
+H/sumae=0*942171
+R=./src/aluSumaExp.vhd|33
+V=0*818602
+
+[sumamantisa]
+A/sumamantisa=A/sumaMantisa 21|./src/aluSumaMantisa.vhd|41|1*394304
+B/sumamantisa=3*75902
+H/sumamantisa=0*376300
+R=./src/aluSumaMantisa.vhd|31
+V=0*253395
+
+[~A]
+./compile/practica2.vhd~practica2=60|0*1020390*1020709
+./compile/practica2.vhd~practica2practica2=60|0*3424367*3429328
+./src/ComponenteNormalizacion.vhd~ComponenteNormalizacion=60|0*33234*33574
+./src/ComponenteNormalizacion.vhd~ComponenteNormalizacionComponenteNormalizacion=60|0*84723*84941
+./src/Mux10bits.vhd~Mux10bits=60|0*53888*54194
+./src/Mux10bits.vhd~Mux10bitsMux10bits=60|0*3401956*3402168
+./src/Mux5bits.vhd~Mux5bits=60|0*25448*25750
+./src/Mux5bits.vhd~Mux5bitsMux5bits=60|0*25908*26035
+./src/Mux5bits.vhd~mux5bits=60|0*48206*48508
+./src/Mux5bits.vhd~mux5bitsmux5bits=60|0*3402337*3402543
+./src/aluSuma.vhd~aluSuma=60|0*3972*4321
+./src/aluSuma.vhd~aluSumaaluSuma=60|0*8073*8194
+./src/aluSumaExp.vhd~aluSumaExp=60|0*966839*967204
+./src/aluSumaExp.vhd~aluSumaExpaluSumaExp=60|0*3403267*3403500
+./src/aluSumaExp.vhd~sumae=60|0*816608*816958
+./src/aluSumaExp.vhd~sumaesumae=60|0*942810*943018
+./src/aluSumaMantisa.vhd~aluSumaMantisa=60|0*29323*29700
+./src/aluSumaMantisa.vhd~aluSumaMantisaaluSumaMantisa=60|0*221819*221982
+./src/aluSumaMantisa.vhd~alusumamantisa=60|0*400726*401198
+./src/aluSumaMantisa.vhd~alusumamantisaalusumamantisa=60|0*3401190*3401770
+./src/aluSumaMantisa.vhd~sumaMantisa=60|0*250323*250793
+./src/aluSumaMantisa.vhd~sumaMantisasumaMantisa=60|0*377105*377683
+./src/corrimiento.vhd~ComponenteNormalizacion=60|0*2056074*2056430
+./src/corrimiento.vhd~ComponenteNormalizacionComponenteNormalizacion=60|0*3404256*3406126
+./src/difExp.vhd~difExp=60|0*125092*125459
+./src/difExp.vhd~difExpdifExp=60|0*3399904*3400310
+./src/mux10bitsB.vhd~mux10bitsB=60|0*1283383*1283693
+./src/mux10bitsB.vhd~mux10bitsBmux10bitsB=60|0*3429505*3429723
+./src/mux5bitsB.vhd~mux5bitsB=60|0*1394941*1395247
+./src/mux5bitsB.vhd~mux5bitsBmux5bitsB=60|0*3429897*3430109
+ModifyID=6190
+Version=73
+
+[~MFT]
+0=6279|0practica2.mgf|3430109|3359378
+1=1895|1practica2.mgf|3370132|1849967
+2=91|2practica2.mgf|82447|66509
+3=1688|3practica2.mgf|1461208|1443807
+
+[~U]
+alusuma=aluSuma 11|0*4668|0*4917
+alusumaexp=11|0*967275|0*967462|3
+alusumamantisa=11|0*402831|0*403101|3
+componentenormalizacion=11|0*2056515|0*2056751|3
+difexp=11|0*125522|0*125762|3
+fub1=Fub1 11||
+fub2=Fub2 11||
+mux10bits=11|0*54567|0*54780|3
+mux10bitsb=mux10bitsB 11|0*1284158|0*1284374|3
+mux5bits=11|0*48868|0*49078|3
+mux5bitsb=mux5bitsB 11|0*1395699|0*1395912|3
+practica2=11|0*1039842|0*1040067
+sumae=11|0*817942|0*818114
+sumamantisa=11|0*252339|0*252607
+

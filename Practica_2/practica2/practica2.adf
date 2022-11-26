@@ -1,0 +1,62 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=practica2
+
+[Library]
+practica2=.\practica2.lib
+
+[$LibMap$]
+practica2=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=practica2|practica2|0     
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/difExp.vhd=-1
+/aluSumaMantisa.vhd=-1
+/Mux10bits.vhd=-1
+/Mux5bits.vhd=-1
+/aluSumaExp.vhd=-1
+/corrimiento.vhd=-1
+/practica2.bde=-1
+/DiferenciaExponentes.awf=-1
+/mux10bitsB.vhd=-1
+/mux5bitsB.vhd=-1
+/presentacion.awf=-1
+
+[Files.Data]
+.\src\difExp.vhd=VHDL Source Code
+.\src\aluSumaMantisa.vhd=VHDL Source Code
+.\src\Mux10bits.vhd=VHDL Source Code
+.\src\Mux5bits.vhd=VHDL Source Code
+.\src\aluSumaExp.vhd=VHDL Source Code
+.\src\corrimiento.vhd=VHDL Source Code
+.\src\practica2.bde=Block Diagram
+.\src\DiferenciaExponentes.awf=Waveform File
+.\src\mux10bitsB.vhd=VHDL Source Code
+.\src\mux5bitsB.vhd=VHDL Source Code
+.\src\presentacion.awf=Waveform File
+.\compile\practica2.vhd=VHDL Source Code
+
+[file_out:/practica2.bde]
+/\compile\practica2.vhd=-1

@@ -1,0 +1,5 @@
+14
+~E 1 "../src/Entrada32b.vhd" 28 Entrada32b
+~A 1 "../src/Entrada32b.vhd" 39 Entrada32b
+~E 1 "../compile/SumaPuntoFlotante.vhd" 24 SumaPuntoFlotante
+~A 1 "../compile/SumaPuntoFlotante.vhd" 31 SumaPuntoFlotante

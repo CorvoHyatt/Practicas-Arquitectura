@@ -1,0 +1,7 @@
+.\src\.bde
+.\src\mux2a1mul.vhd
+.\src\alumultiplicador.vhd
+.\src\`multiplicadorpf.bde
+.\src\divisorde16bits.vhd
+.\compile\une16bits.vhd
+.\src\sumaExpo.vhd

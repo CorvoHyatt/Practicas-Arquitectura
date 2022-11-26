@@ -1,0 +1,37 @@
+timestamp=1666705247722
+
+[~A]
+ModifyID=14
+Version=74
+
+[~MFT]
+0=10|0sumaPuntoFlotante.mgf|3794|1054
+1=3|1sumaPuntoFlotante.mgf|3965|1222
+2=0|2sumaPuntoFlotante.mgf|0|0
+3=2|3sumaPuntoFlotante.mgf|0|0
+
+[entrada32b]
+A/entrada32b=A/Entrada32b 21|../src/Entrada32b.vhd|39|1*2743
+BinW64/entrada32b=3*0
+I=0*950
+I/entrada32b=I/Entrada32b 0*3005
+M=11|2|vef|1666704412538|../src/Entrada32b.vhd|0*0*0x57e052689a2b69b5fe41a34acca0513c7ff444d0|0*313*0x23b75c12e3e89f2ef000564498faa8c2
+M/entrada32b=M/Entrada32b 21|2|vef|1666705247687|../src/Entrada32b.vhd|0*398*0x50419f750a0ac18731f1f48b76726de481766d38|0*625*0x20116f55b147878295aeff36dce7fc50
+NSymbols/entrada32b=NSymbols/Entrada32b 40|0|2*0
+R=../src/Entrada32b.vhd|28
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|6fd9e1457902ba6cdcc349cd72900211051551dd61131623f028f3c77ffb514229458a3e54e181c235f8b8c70eaeeb87
+Version/entrada32b=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|6fd9e1457902ba6cdcc349cd72900211051551dd61131623f028f3c77ffb51423ef836b14f24b297a1bfea5e193d876a
+
+[sumapuntoflotante]
+A/sumapuntoflotante=A/SumaPuntoFlotante 24|../src/SumaPuntoFlotante.bde|10000|1*3965
+I=0*1955
+I/sumapuntoflotante=I/SumaPuntoFlotante 0*3794
+M=11|2|vef|1666705212850|../compile/SumaPuntoFlotante.vhd|0*1574*0xf1e7cc4a057c71e54ad13425226c8c2eaf439078|0*1852*0x23b75c12e3e89f2ef000564498faa8c2
+M/sumapuntoflotante=M/SumaPuntoFlotante 21|2|vef|1666705247716|../compile/SumaPuntoFlotante.vhd|0*3220*0x8bc3e3058d8ad338417bda7af2d38c8265738c0c|0*3670*0x20116f55b147878295aeff36dce7fc50
+R=../compile/SumaPuntoFlotante.vhd|24
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|444b882d8202ac89fb22ffe66fe6a7ae54ff76a55d3d69375e8a412d2d6cc00f926d729337128d04dd6cb181c673516e
+Version/sumapuntoflotante=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|444b882d8202ac89fb22ffe66fe6a7ae54ff76a55d3d69375e8a412d2d6cc00f9fdfc192902c695700dffdc8240974c0
+
+[~U]
+entrada32b=Entrada32b 11|0*724||0x3
+sumapuntoflotante=SumaPuntoFlotante 11|0*1369|

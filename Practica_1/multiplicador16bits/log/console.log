@@ -1,0 +1,43 @@
+asim -advdataflow  -retry 3  {\`multiplicadorPF\} {\`multiplicadorPF\}
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.1 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom $DSN/src/`multiplicadorpf.bde
+# Compile...
+# DRC: Checking file 'Z:\multiplicador16bitsPF\multiplicador16bits\src\`multiplicadorpf.bde'.
+# DRC: Warning: `multiplicadorpf.bde - 0 error(s), 1 warning(s)
+# DRC: The results have been written to the log file. Double click on this line to view the log.
+# Generating Z:\multiplicador16bitsPF\multiplicador16bits\compile\`multiplicadorpf.vhd from Z:\multiplicador16bitsPF\multiplicador16bits\src\`multiplicadorpf.bde ...
+# Generation successful
+# File: .\`multiplicadorpf.vhd
+# Compile Entity "\`multiplicadorPF\"
+# Entity `\`multiplicadorPF\' has been skipped - no difference detected.
+# Compile Architecture "\`multiplicadorPF\" of Entity "\`multiplicadorPF\"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1141 kB (elbread=1071 elab2=41 kernel=29 sdf=0)
+# 13:16, martes, 01 de noviembre de 2022
+# Simulation has been initialized
+# Selected Top-Level: \`multiplicadorPF\ (\`multiplicadorPF\)
+run 100 ns
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# Simulation has been stopped

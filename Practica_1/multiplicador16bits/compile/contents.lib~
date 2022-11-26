@@ -1,0 +1,18 @@
+501
+~E 1 "./src/mux2a1mul.vhd" 6 mux2a1mul
+~A 1 "./src/mux2a1mul.vhd" 15 mux2a1mul
+~E 1 "./src/alumultiplicador.vhd" 8 alumultiplicador
+~A 1 "./src/alumultiplicador.vhd" 16 alumultiplicador
+~E 1 "./compile/`multiplicadorpf.vhd" 25 \`multiplicadorPF\
+~A 1 "./compile/`multiplicadorpf.vhd" 33 \`multiplicadorPF\
+~E 1 "./src/divisorde32bits.vhd" 6 divisorde32bits
+~E 1 "./src/sumaExpo.vhd" 6 sumaexp
+~A 1 "./src/sumaExpo.vhd" 16 sumaexp
+~E 1 "./src/divisorde16bits.vhd" 30 separa16bits
+~A 1 "./src/divisorde16bits.vhd" 41 separa16bits
+~E 1 "./compile/une16bits.vhd" 5 une16bits
+~A 1 "./compile/une16bits.vhd" 12 une16bits
+~E 1 "./src/sumaexpo.vhd" 6 sumaexpo
+~A 1 "./src/sumaExpo.vhd" 16 sumaexpo
+~E 1 "./compile/une32bits.vhd" 25 une32bits
+~A 1 "./compile/.vhd" 34 une32bits

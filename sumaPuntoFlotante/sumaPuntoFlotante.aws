@@ -1,0 +1,8 @@
+[Version]
+Version=13.0
+[Designs]
+sumaPuntoFlotante=sumaPuntoFlotante.adf
+[Settings]
+Active=sumaPuntoFlotante
+[Expand]
+sumapuntoflotante=1
